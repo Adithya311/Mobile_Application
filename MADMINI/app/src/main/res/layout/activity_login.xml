@@ -28,15 +28,15 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/input_border"
-        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawableStart="@drawable/ic_baseline_person_24"
         android:drawablePadding="@dimen/padding1"
         android:ems="10"
         android:hint="@string/User_Name"
         android:inputType="textPersonName"
         android:minHeight="48dp"
-        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
         android:paddingTop="10dp"
-        android:paddingRight="10dp"
+        android:paddingEnd="10dp"
         android:paddingBottom="10dp"
         android:textAlignment="textStart"
         android:textColor="@color/white"
@@ -47,7 +47,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Login"
         app:layout_constraintVertical_bias="0.028"
-        tools:ignore="DuplicateClickableBoundsCheck" />
+        tools:ignore="DuplicateClickableBoundsCheck"
+        android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/Input_password"
@@ -55,15 +56,15 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="368dp"
         android:background="@drawable/input_border"
-        android:drawableLeft="@drawable/ic_baseline_security_24"
+        android:drawableStart="@drawable/ic_baseline_security_24"
         android:drawablePadding="@dimen/padding1"
         android:ems="10"
         android:hint="@string/Password"
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:minHeight="48dp"
-        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
         android:paddingTop="10dp"
-        android:paddingRight="10dp"
+        android:paddingEnd="10dp"
         android:paddingBottom="10dp"
         android:textAlignment="textStart"
         android:textColor="@color/white"
@@ -74,7 +75,8 @@
 
         app:layout_constraintStart_toStartOf="@+id/User_Name"
         app:layout_constraintTop_toBottomOf="@+id/User_Name"
-        app:layout_constraintVertical_bias="0.337" />
+        app:layout_constraintVertical_bias="0.337"
+        android:autofillHints="" />
 
     <Button
         android:id="@+id/RgT_btn"
@@ -89,7 +91,7 @@
         app:layout_constraintStart_toStartOf="@+id/Input_password"
         app:layout_constraintTop_toBottomOf="@+id/Input_password"
         app:layout_constraintVertical_bias="0.538"
-        tools:ignore="DuplicateClickableBoundsCheck" />
+        tools:ignore="DuplicateClickableBoundsCheck,DuplicateSpeakableTextCheck" />
 
     <TextView
         android:id="@+id/textView"
@@ -101,7 +103,8 @@
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/Input_password"
-        app:layout_constraintTop_toBottomOf="@+id/Input_password" />
+        app:layout_constraintTop_toBottomOf="@+id/Input_password"
+        tools:ignore="TextContrastCheck" />
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -119,13 +122,13 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Don't have an account?"
+            android:text="@string/don_t_have_an_account"
             android:textColor="@color/black" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sign up?"
+            android:text="@string/sign_up"
             android:textColor="@color/Blue_200"
             android:textStyle="bold" />
 
@@ -149,7 +152,8 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/Google_button"
         app:layout_constraintTop_toTopOf="@+id/Google_button"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TextContrastCheck" />
 
     <Button
         android:id="@+id/Google_button"
@@ -160,11 +164,12 @@
         android:layout_marginEnd="8dp"
         android:background="@drawable/buttonbg1"
         android:text="@string/Google"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toStartOf="@+id/Fb_button"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints,TextContrastCheck" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -176,7 +181,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.959"
-        app:srcCompat="@drawable/c" />
+        app:srcCompat="@drawable/c"
+        android:contentDescription="@string/todo" />
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -192,6 +198,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/bottom_nav_bar" />
-            />
+<!--            />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Registation"
-    android:background="@drawable/wave1">
+    tools:context=".Registation"/>
+<!--    android:background="@drawable/wave1"/>-->
 
 
     <TextView
@@ -20,7 +20,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.007" />
+        app:layout_constraintVertical_bias="0.007" >
 
     <EditText
         android:id="@+id/Input_Name"
@@ -251,6 +251,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/bottom_nav_bar" />
-            />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

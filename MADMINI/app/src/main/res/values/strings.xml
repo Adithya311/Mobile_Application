@@ -20,4 +20,7 @@
     <string name="Delete_Successful">Delete Successful</string>
     <string name="Update_Successful">Update Successful</string>
     <string name="Phone">Phone</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Sign up?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
 </resources>
