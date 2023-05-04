@@ -10,4 +10,6 @@
     <color name="Button_Green1">#0D8E19</color>
     <color name="Button_Green">#0C5E14</color>
     <color name="Blue_200">#0100ff</color>
+    <color name="delete_red">#b00020</color>
+
 </resources>

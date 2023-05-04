@@ -22,6 +22,12 @@
     <dimen name="Field_Box">0dp</dimen>
     <dimen name="Photo_Box_width">84dp</dimen>
     <dimen name="Photo_Box_height">99dp</dimen>
+    <dimen name="form_box_height">342dp</dimen>
+    <dimen name="form_box_width">49dp</dimen>
+    <dimen name="next_height">299dp</dimen>
+    <dimen name="next_width">56dp</dimen>
+    <dimen name="U_D_button_H">48dp</dimen>
+    <dimen name="U_D_button_W">136dp</dimen>
 </resources>
 
 

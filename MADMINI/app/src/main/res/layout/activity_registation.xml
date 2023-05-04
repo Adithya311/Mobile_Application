@@ -163,7 +163,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginBottom="172dp"
         android:backgroundTint="@color/Button_Green1"
-        android:text="@string/Topic01"
+        android:text="@string/Topic06"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/Input_confirm_password"
         app:layout_constraintHorizontal_bias="0.0"

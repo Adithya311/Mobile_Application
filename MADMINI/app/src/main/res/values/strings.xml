@@ -6,12 +6,15 @@
     <string name="Password">Password</string>
     <string name="C_Password">Confirm Password</string>
     <string name="Email">Email</string>
+    <string name="Address">Address</string>
+    <string name="DOB">DOB</string>
     <string name="Register">SIGN IN</string>
     <string name="All_reddy_have_account"> All reddy have an account</string>
     <string name="forgot_password">Forgot Password</string>
     <string name="User_Name">User name</string>
     <string name="Topic02">Login</string>
     <string name="Topic03">User profile</string>
+    <string name="Topic04">Seller profile</string>
     <string name="Google">Google</string>
     <string name="fb">Facebook</string>
     <string name="Update_button">Update</string>
@@ -20,4 +23,21 @@
     <string name="Delete_Successful">Delete Successful</string>
     <string name="Update_Successful">Update Successful</string>
     <string name="Phone">Phone</string>
+    <string name="todo">TODO</string>
+    <string name="Login">Button</string>
+    <string name="Singnup">Sign up</string>
+    <string name="todo1">TODO</string>
+    <string name="button8">Get Start</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_now">Login now?</string>
+    <string name="Topic06">Next</string>
+    <string name="Topic07">Seller Profile</string>
+    <string name="todo12">TODO</string>
+    <string name="NIC">NIC</string>
+    <string name="seller_id">Seller ID</string>
+    <string name="C_id">Customer ID</string>
+    <string name="topic_08">My Shop</string>
+    <string name="topic_09">Create inquiry </string>
+
+
 </resources>
