@@ -19,13 +19,13 @@
 <!--                android:name="android.app.lib_name"-->
 <!--                android:value="" />-->
 <!--        </activity>-->
-        <activity
-            android:name=".delete_successfull"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+<!--        <activity-->
+<!--            android:name=".delete_successfull"-->
+<!--            android:exported="false">-->
+<!--            <meta-data-->
+<!--                android:name="android.app.lib_name"-->
+<!--                android:value="" />-->
+<!--        </activity>-->
 <!--        <activity-->
 <!--            android:name=".Update_profile"-->
 <!--            android:exported="false">-->
@@ -33,13 +33,13 @@
 <!--                android:name="android.app.lib_name"-->
 <!--                android:value="" />-->
 <!--        </activity>-->
-        <activity
-            android:name=".user_profile"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+<!--        <activity-->
+<!--            android:name=".user_profile"-->
+<!--            android:exported="false">-->
+<!--            <meta-data-->
+<!--                android:name="android.app.lib_name"-->
+<!--                android:value="" />-->
+<!--        </activity>-->
 <!--        <activity-->
 <!--            android:name=".Login"-->
 <!--            android:exported="false">-->
@@ -67,6 +67,13 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".delete_successfull"/>
+        <activity android:name=".Login"/>
+        <activity android:name=".Registation"/>
+        <activity android:name=".Update_profile"/>
+        <activity android:name=".Update_Successful"/>
+        <activity android:name=".user_profile"/>
+
     </application>
 
 </manifest>
