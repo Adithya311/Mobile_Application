@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Y2CS</string>
+    <string name="first_name_stringLiteral">First name</string>
+    <string name="notification_stringLiteral">Notifications</string>
+    <string name="show_my_ads_stringLiteral">Show my ads</string>
+    <string name="last_name_stringLiteral">Last name</string>
+    <string name="e_mail_stringLiteral">E-mail</string>
+    <string name="password_stringLiteral">Password</string>
+    <string name="phone_number_stringLiteral">Phone Number</string>
+    <string name="add_a_notice_Literal">ADD A NOTICE</string>
+    <string name="delete_notice_stringLiteral">DELETE NOTICE</string>
+    <string name="add_a_notice1_stringLiteral">ADD A NOTICE</string>
+    <string name="delete_notice1_stringLiteral">DELETE NOTICE</string>
+    <string name="comment_stringLiteral">comment</string>
+    <string name="submit_stringLiteral">Submit</string>
+    <string name="add_a_notice_stringLiteral">Add a notice</string>
+    <string name="update_successfully_stringLiteral">Update Successfully</string>
+    <string name="comment1_stringLiteral">comment</string>
+    <string name="submit1_stringLiteral">Submit</string>
+    <string name="feedback_stringLiteral">If you want to delete , Brefily explane the reason</string>
+    <string name="delete_successfully_stringLiteral">Delete Successfully</string>
+</resources>
