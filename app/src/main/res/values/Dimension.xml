@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding1">10dp</dimen>
+    <dimen name="imageH">132dp</dimen>
+    <dimen name="imageW">132dp</dimen>
+    <dimen name="btn11H">50dp</dimen>
+    <dimen name="btn11W">70dp</dimen>
+    <dimen name="btn22H">20dp</dimen>
+    <dimen name="btn22W">70dp</dimen>
+    <dimen name="im2H">145dp</dimen>
+    <dimen name="im2W">155dp</dimen>
+    <dimen name="im3H">80dp</dimen>
+    <dimen name="im3W">110dp</dimen>
+    <dimen name="crd1H">220dp</dimen>
+    <dimen name="crd1W">170dp</dimen>
+    <dimen name="crd2">320dp</dimen>
+    <dimen name="crd2w">130dp</dimen>
+    <dimen name="text_size_1">16sp</dimen>
+    <dimen name="text_size_2">14sp</dimen>
+    <dimen name="text_size_3">40sp</dimen>
+    <dimen name="BOX_1_Width">320dp</dimen>
+    <dimen name="BOX_1_Height">311dp</dimen>
+</resources>
+

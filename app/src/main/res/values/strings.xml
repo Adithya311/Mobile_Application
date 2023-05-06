@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Catchy Craft</string>
+    <string name="signup">Sign Up</string>
+    <string name="already">Already have an account ?</string>
+    <string name="signin">Sign In</string>
+    <string name="name">Enter your Name :</string>
+    <string name="phoneNum">Enter your phone number :</string>
+    <string name="heading">Heading</string>
+    <string name="des">Description about what you looking at :</string>
+    <string name="price">If you have a expected price let us know :</string>
+    <string name="create">Create my post</string>
+    <string name="submitBtn">submitBtn</string>
+    <string name="submitBtn1">SUBMIT</string>
+    <string name="home">PUBLIC INQUIRIES…</string>
+    <string name="head1">LOOKING FOR HANDMADE CARDS</string>
+    <string name="head2">LOOKING FOR A USED COCONUT SHELL TEA SET</string>
+    <string name="head3">LOOKING FOR A DIY JEWELLERY</string>
+    <string name="des1">I need to contact someone who create customize birthday cards using paper flowers</string>
+    <string name="des2">I need a coconut shell tea cup set for low price. Its okay if it is a used one, but set has to be not without any damagers</string>
+    <string name="des3">Im looking for a handmade diy jewelleries, such as paper earrings, pebble neckless..</string>
+    <string name="phone1">Contact Number: 072-XXXXXXX</string>
+    <string name="phone2">Contact Number: 075-XXXXXXX</string>
+    <string name="phone3">Contact Number: 077-XXXXXXX</string>
+    <string name="price2">excepected price : LKR 2000 or below </string>
+    <string name="view">VIEW MY INQUIRIES</string>
+    <string name="updateBtn">UPDATE INQUIRY</string>
+    <string name="deleteBtn">DELETE INQUIRY</string>
+    <string name="UpPhone">Update your phone number</string>
+    <string name="UpHead">Update your heading</string>
+    <string name="UpDes">Update your description</string>
+    <string name="UpPrice">Update price</string>
+    <string name="delete">SUCCESSFULLY DELETED</string>
+    <string name="update">SUCCESSFULLY UPDATED</string>
+    <string name="chathumi_rubasingha">Chathumi Rubasingha</string>
+</resources>
+
+
