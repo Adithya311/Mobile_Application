@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text">16sp</dimen>
+    <dimen name="text2">214sp</dimen>
+    <dimen name="text3">140sp</dimen>
+    <dimen name="BOX_12">320dp</dimen>
+    <dimen name="BOX_1_H2">321dp</dimen>
+    <dimen name="text_box">240dp</dimen>
+    <dimen name="Field_Bo">30dp</dimen>
+    <dimen name="Photo_Box_w">184dp</dimen>
+    <dimen name="Photo_Box_h">299dp</dimen>
+    <dimen name="text45">16sp</dimen>
+    <dimen name="text2r">214sp</dimen>
+    <dimen name="text3t">140sp</dimen>
+    <dimen name="padding1">10dp</dimen>
+    <dimen name="text_size_1">16sp</dimen>
+    <dimen name="text_size_2">14sp</dimen>
+    <dimen name="text_size_3">40sp</dimen>
+    <dimen name="BOX_1_Width">320dp</dimen>
+    <dimen name="BOX_1_Height">311dp</dimen>
+    <dimen name="text_box2">140dp</dimen>
+    <dimen name="Field_Box">0dp</dimen>
+    <dimen name="Photo_Box_width">84dp</dimen>
+    <dimen name="Photo_Box_height">99dp</dimen>
+    <dimen name="form_box_height">342dp</dimen>
+    <dimen name="form_box_width">49dp</dimen>
+    <dimen name="next_height">299dp</dimen>
+    <dimen name="next_width">56dp</dimen>
+    <dimen name="U_D_button_H">48dp</dimen>
+    <dimen name="U_D_button_W">136dp</dimen>
+</resources>
+
+
+
