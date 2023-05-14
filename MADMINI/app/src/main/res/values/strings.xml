@@ -1,26 +1,23 @@
 <resources>
-    <string name="app_name">MAD MINI</string>
-    <string name="Topic01">Register</string>
-    <string name="F_Name">First Name</string>
-    <string name="L_Name">Last Name</string>
-    <string name="Password">Password</string>
-    <string name="C_Password">Confirm Password</string>
-    <string name="Email">Email</string>
-    <string name="Register">SIGN IN</string>
-    <string name="All_reddy_have_account"> All reddy have an account</string>
-    <string name="forgot_password">Forgot Password</string>
-    <string name="User_Name">User name</string>
-    <string name="Topic02">Login</string>
-    <string name="Topic03">User profile</string>
-    <string name="Google">Google</string>
-    <string name="fb">Facebook</string>
-    <string name="Update_button">Update</string>
-    <string name="Delete_button">Delete</string>
-    <string name="Save_button">Save Changes</string>
-    <string name="Delete_Successful">Delete Successful</string>
-    <string name="Update_Successful">Update Successful</string>
-    <string name="Phone">Phone</string>
-    <string name="todo">TODO</string>
-    <string name="sign_up">Sign up?</string>
-    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="app_name">Catchy Craft</string>
+    <string name="title_home">Home</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_search">Search</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_account">Account</string>
+    <string name="signIn_text">Sign In</string>
+    <string name="signUp_text">Sign Up</string>
+    <string name="logIn_text">LogIn</string>
+    <string name="register_text">Register</string>
+    <string name="email_hint_text">Enter your email</string>
+    <string name="enter_password_text">Enter password</string>
+    <string name="confirm_password_text">Confirm password</string>
+    <string name="signUp_email_text">Enter your email</string>
+    <string name="signUp_password_text">Enter your password</string>
+    <string name="get_signUp_button_text">Dont have an account?</string>
+    <string name="title_activity_bottom_navigation">Bottom_navigation</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Incomes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
