@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_card1.jpg.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/card1.jpg"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_diy.jpg.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/diy.jpg"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_custom_shapes.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/custom_shapes.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/menu_bottomnavbar.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/menu/bottomnavbar.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-xhdpi_ic_imageupload.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-xhdpi/ic_imageupload.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_top_background.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/top_background.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_your_background_drawable.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/your_background_drawable.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_hireme.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/hireme.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_white_line.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/white_line.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_manage_search_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_c.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/c.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_home_page.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-hdpi_ic_imageupload.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-hdpi/ic_imageupload.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_wave__1_.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/wave__1_.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_card2.jpg.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/card2.jpg"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_btn_bc.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/btn_bc.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_view_inquiry.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_view_inquiry.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_signup.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_create_notification.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_create_notification.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_manage_search_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_notification.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_call_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-xxhdpi_ic_imageupload.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-xxhdpi/ic_imageupload.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_inqu_home.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_inqu_home.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_card3.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/card3.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_perm_identity_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_facebook.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/facebook.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_background_intro.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/background_intro.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-anydpi_ic_imageupload.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-anydpi/ic_imageupload.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_delete.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_delete.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_input_border.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/input_border.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_circle_notifications_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_circle_notifications_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_update_success.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_update_success.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable__81607_complete_icon.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/_81607_complete_icon.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/menu_bottom_nav_bar.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/menu/bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_c1.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/c1.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_teaset.jpg.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/teaset.jpg"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/layout_activity_update.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/layout/activity_update.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_logo1.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_logo.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable-mdpi_ic_imageupload.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable-mdpi/ic_imageupload.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_buttonbg1.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/buttonbg1.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.y2cs.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_google.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/google.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_check_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_check_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_wave1.png.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/wave1.png"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_baseline_circle_notifications_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/baseline_circle_notifications_24.xml"
+    },
+    {
+        "merged": "com.example.y2cs.app-merged_res-35:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.y2cs.app-main-37:/drawable/ic_baseline_account_circle_24.xml"
+    }
+]
